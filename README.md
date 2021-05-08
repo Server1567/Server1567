@@ -1,7 +1,7 @@
 ### Hi there 👋
-### I'm a Frontend Developer that dreams to develop and to growth a startup.
-### 🌱 I’m currently learning ReactJS to Master ⚡
-### I'd like to collaborate on a startup with any people for myself growth 👯
+## I'm a Frontend Developer that dreams to develop and to growth a startup.
+## 🌱 I’m currently learning ReactJS to Master ⚡
+## I'd like to collaborate on a startup with any people for myself growth 👯
 
 <!--
 **Server1567/Server1567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
