@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Junior 👋
 I'm a Frontend Developer that dreams to develop and to growth a startup. <br>
-🌱 I’m currently learning ReactJS to Master ⚡
+🌱 I’m currently learning ReactJS to Master ⚡ <br>
 I'd like to collaborate on a startup with any people for myself growth 👯
 
 <!--
